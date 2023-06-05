@@ -1,0 +1,9 @@
+{
+    "ids_path": "resources/ids.xlsx",
+    "cookies_path": "resources/cookies.pkl",
+    "software_icon_path": "resources/media/hpm.ico",
+    "add_icon_path": "resources/media/add_icon.png",
+    "remove_icon_path": "resources/media/remove_icon.png",
+    "folder_icon_path": "resources/media/folder_icon.png",
+    "settings_icon_path": "resources/media/settings_icon.png"
+}
